@@ -5,7 +5,7 @@ import (
 	"encoding/gob"
 	"fmt"
 
-	"github.com/garyburd/redigo/redis"
+	"github.com/gomodule/redigo/redis"
 	"github.com/openshift/osin"
 	"github.com/pkg/errors"
 	uuid "github.com/satori/go.uuid"
