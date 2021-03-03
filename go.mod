@@ -1,4 +1,4 @@
-module github.com/xiviu123/osin-redis
+module github.com/socna/osinredis
 
 go 1.14
 
