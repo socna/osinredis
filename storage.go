@@ -5,10 +5,10 @@ import (
 	"encoding/gob"
 	"fmt"
 
-	"github.com/RangelReale/osin"
 	"github.com/garyburd/redigo/redis"
+	"github.com/openshift/osin"
 	"github.com/pkg/errors"
-	"github.com/satori/go.uuid"
+	uuid "github.com/satori/go.uuid"
 )
 
 func init() {
